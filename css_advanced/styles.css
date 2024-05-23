@@ -1,0 +1,91 @@
+/* styles.css */
+
+/* Reset some default styles */
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic styles */
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #1b5e20;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+section.banner {
+    background: url('https://gcx.com.gh/gcxadmin/uploads/image/maize-image.png') no-repeat center center/cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+section.banner h2 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+section.banner p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+/* Quote Section Styling */
+
+section.quote {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+section.quote img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+section.quote blockquote {
+    font-style: italic;
+    color: #555;
+    margin: 10px 0;
+}
+
+section.quote p {
+    font-size: 1em;
+    color: #777;
+    margin: 5px 0;
+}
