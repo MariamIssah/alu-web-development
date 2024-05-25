@@ -8,4 +8,4 @@ In this project, I created a webpage from a designer file, focusing solely on th
 
 The emphasis was on using proper HTML semantics throughout the structure.
 
-![HTML_Advanced project!](./images/HTML.JPG)
+![HTML_Advanced project!](https://raw.githubusercontent.com/SMushy14/alu-web-development/master/Htmlschoolpage.jpg)
